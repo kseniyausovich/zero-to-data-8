@@ -17,7 +17,6 @@ Modules allow students from different fields of studies to get familiarized with
 
 You can learn more about the modules the DSEP Team has created over the years on the [Modules webpage](https://data.berkeley.edu/education/modules)
 
-edu/education/connectors).
 
 We have also created a webpage to interact with some of our featured connectors on the [Modules Showcase Page](https://ds-modules.github.io/).
 
