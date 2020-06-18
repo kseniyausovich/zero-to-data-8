@@ -17,11 +17,10 @@ Modules allow students from different fields of studies to get familiarized with
 
 You can learn more about the modules the DSEP Team has created over the years on the [Modules webpage](https://data.berkeley.edu/education/modules)
 
-edu/education/connectors).
 
 We have also created a webpage to interact with some of our featured connectors on the [Modules Showcase Page](https://ds-modules.github.io/).
 
 # Creating Your Own Module or Connector
 
-The Data Science Education Program has created a separate [Creating a Module/Connector Curriculum Guide](https://ds-modules.github.io/curriculum-guide/) on how Berkeley professors can create modules/connectors based on Data 8. However, professors from other universities/colleges may find it useful to read through the guide to brainstorm ideas on how to bring Data 8 concepts to specific disciplines, and the infrastructure required to do so.
+The Data Science Education Program has created a separate [Creating a Module/Connector Curriculum Guide](https://ds-modules.github.io/curriculum-guide/) on how Berkeley professors can create modules or connectors based on Data 8. However, professors from other schools may find it useful to read through the guide to brainstorm ideas on how to bring Data 8 concepts to specific disciplines, and the infrastructure required to do so.
 <!-- #endregion -->
